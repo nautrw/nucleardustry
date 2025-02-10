@@ -1,0 +1,7 @@
+name: "nucleardustry"
+displayName: "NuclearDustry"
+author: nautrw
+description: "Mindustry mod that adds nuclear stuff to the game"
+version: "0.1"
+minGameVersion: "146"
+hidden: false
